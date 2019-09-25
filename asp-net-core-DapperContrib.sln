@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asp-net-core-DapperContrib", "asp-net-core-DapperContrib\asp-net-core-DapperContrib.csproj", "{D565B20B-4E83-49B1-92AA-B11B223AF7A1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asp-net-core.DapperContrib.API", "asp-net-core.DapperContrib.API\asp-net-core.DapperContrib.API.csproj", "{D76048FB-8AC9-4C88-B455-2D968D424C7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D565B20B-4E83-49B1-92AA-B11B223AF7A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D565B20B-4E83-49B1-92AA-B11B223AF7A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D565B20B-4E83-49B1-92AA-B11B223AF7A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D565B20B-4E83-49B1-92AA-B11B223AF7A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D76048FB-8AC9-4C88-B455-2D968D424C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76048FB-8AC9-4C88-B455-2D968D424C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76048FB-8AC9-4C88-B455-2D968D424C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76048FB-8AC9-4C88-B455-2D968D424C7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
